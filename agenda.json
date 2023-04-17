@@ -1,0 +1,41 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez",
+        "tel\u00e9fono": "555-555-5555",
+        "correo electr\u00f3nico": "juan.perez@mail.com"
+    },
+    {
+        "nombre": "Mar\u00eda",
+        "apellido": "Gonz\u00e1lez",
+        "tel\u00e9fono": "555-555-5556",
+        "correo electr\u00f3nico": "maria.gonzalez@mail.com"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Mart\u00ednez",
+        "tel\u00e9fono": "555-555-5557",
+        "correo electr\u00f3nico": "pedro@ipn.mx"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Robles",
+        "tel\u00e9fono": "555-555-5555",
+        "correo electr\u00f3nico": "jrobles@cic.ipn.mx"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez",
+        "tel\u00e9fono": "555-555-5555",
+        "correo electr\u00f3nico": "",
+        "direcci\u00f3n": {
+            "calle": "Av. Universidad",
+            "n\u00famero": 2500,
+            "colonia": "Ciudad Universitaria",
+            "c\u00f3digo postal": "04510",
+            "alcaldia": "Tlalpan",
+            "estado": "Ciudad de M\u00e9xico",
+            "pa\u00eds": "M\u00e9xico"
+        }
+    }
+]
